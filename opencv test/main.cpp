@@ -33,8 +33,7 @@ void detect_and_draw(IplImage* img,const CvHaarClassifierCascade* cascade )
     
     IplImage* gray;
     gray = cvCreateImage(cvGetSize(small_img), IPL_DEPTH_8U, 1);
-    //IplImage* small_img=cvCreateImage(cvSize(img->width/scale,img->height/scale),8,1);
-    
+   
     cvResize(img, small_img);
     cvCvtColor(small_img,gray, CV_BGR2GRAY);
     cvEqualizeHist(gray,gray);

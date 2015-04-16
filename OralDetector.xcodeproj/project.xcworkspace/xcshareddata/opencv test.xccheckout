@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>352CE1EF-0139-4C45-B8F6-B4984E69F5E6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>opencv test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B4DD1FB53BDF04B3387FF52034610945DDC3316B</key>
+		<string>https://github.com/HoorayLee/TeethDetector.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>opencv test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B4DD1FB53BDF04B3387FF52034610945DDC3316B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HoorayLee/TeethDetector.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B4DD1FB53BDF04B3387FF52034610945DDC3316B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B4DD1FB53BDF04B3387FF52034610945DDC3316B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>opencv%20test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
