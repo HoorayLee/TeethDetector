@@ -1,1 +1,8 @@
+What is this?
 
+This is a cascade trained by haar-like characteristics.
+Based on Haartrainning provided by OpenCV, we collect 200+ positive samples and 500+ negative samples.
+The accuracy is beyond 99.95%.
+
+How to use?
+Can be used directly, by importing it to the cascade loader in opencv, which is supported in C++.
